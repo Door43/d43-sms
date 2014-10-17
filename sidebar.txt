@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sms:home|Door43 (sms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sms|d43-sms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sms/archive/master.zip|d43-sms.zip]]
+
+**Recent Changes**
+{{changes>ns = sms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sms|Ethnologue data]]
+
